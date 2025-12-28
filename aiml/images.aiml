@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- ACQUAINTANCE -->
+
+<aiml>
+
+<category>
+  <pattern>КАКИЕ ОБРАЗЫ ТЫ РАСПОЗНАЕШЬ</pattern>
+  <template>
+    Я распознаю кнопки Play, Pause и Stop.
+  </template>
+</category>
+
+<category>
+  <pattern>РАССКАЖИ О КНОПКЕ PLAY</pattern>
+  <template>
+    <think><set name="last-image">PLAY</set></think>
+    Кнопка Play используется для запуска воспроизведения медиа.
+  </template>
+</category>
+
+<category>
+  <pattern>А ЧТО ЕЩЕ ТЫ О НЕЙ ЗНАЕШЬ</pattern>
+  <template>
+    <condition name="last-image" value="PLAY">
+      Кнопка Play часто изображается в виде треугольника.
+    </condition>
+  </template>
+</category>
+
+<category>
+  <pattern>А ЧТО ЕЩЕ ТЫ О НЕЙ ЗНАЕШЬ</pattern>
+  <template>
+    <condition name="last-image" value="PLAY">
+      Кнопка Play часто изображается в виде треугольника.
+      Василий Кандинский считал, что треугольник символизирует движение и динамику.
+    </condition>
+  </template>
+</category>
+
+<category>
+  <pattern>О ЧЕМ МЫ РАЗГОВАРИВАЕМ</pattern>
+  <template>
+    <condition name="last-image" value="PLAY">
+      Мы говорим о кнопке Play.
+    </condition>
+  </template>
+</category>
+
+<category>
+  <pattern>РАССКАЖИ О КНОПКЕ PAUSE</pattern>
+  <template>
+    <think><set name="last-image">PAUSE</set></think>
+    Кнопка Pause используется для временной остановки воспроизведения.
+  </template>
+</category>
+
+<category>
+  <pattern>А ЧТО ЕЩЕ ТЫ О НЕЙ ЗНАЕШЬ</pattern>
+  <template>
+    <condition name="last-image" value="PAUSE">
+      Кнопка Pause обычно изображается в виде двух вертикальных линий,
+      символизирующих остановку времени.
+    </condition>
+  </template>
+</category>
+</aiml>
