@@ -20,34 +20,6 @@
 </category>
 
 <category>
-  <pattern>А ЧТО ЕЩЕ ТЫ О НЕЙ ЗНАЕШЬ</pattern>
-  <template>
-    <condition name="last-image" value="PLAY">
-      Кнопка Play часто изображается в виде треугольника.
-    </condition>
-  </template>
-</category>
-
-<category>
-  <pattern>А ЧТО ЕЩЕ ТЫ О НЕЙ ЗНАЕШЬ</pattern>
-  <template>
-    <condition name="last-image" value="PLAY">
-      Кнопка Play часто изображается в виде треугольника.
-      Василий Кандинский считал, что треугольник символизирует движение и динамику.
-    </condition>
-  </template>
-</category>
-
-<category>
-  <pattern>О ЧЕМ МЫ РАЗГОВАРИВАЕМ</pattern>
-  <template>
-    <condition name="last-image" value="PLAY">
-      Мы говорим о кнопке Play.
-    </condition>
-  </template>
-</category>
-
-<category>
   <pattern>РАССКАЖИ О КНОПКЕ PAUSE</pattern>
   <template>
     <think><set name="last-image">PAUSE</set></think>
@@ -58,10 +30,30 @@
 <category>
   <pattern>А ЧТО ЕЩЕ ТЫ О НЕЙ ЗНАЕШЬ</pattern>
   <template>
-    <condition name="last-image" value="PAUSE">
-      Кнопка Pause обычно изображается в виде двух вертикальных линий,
-      символизирующих остановку времени.
-    </condition>
+    <condition name="last-image" value="PLAY">Кнопка Play часто изображается в виде треугольника. Василий Кандинский считал, что треугольник символизирует движение и динамику.</condition>
+    <condition name="last-image" value="PAUSE">Кнопка Pause обычно изображается в виде двух вертикальных линий, символизирующих остановку времени.</condition>
+    <condition name="last-image">Не понял, про что идёт речь.</condition>
   </template>
 </category>
+
+<category>
+  <pattern>О ЧЕМ МЫ РАЗГОВАРИВАЕМ</pattern>
+  <template>
+
+    <condition name="last-image" value="PLAY">
+      Мы говорим о кнопке Play.
+    </condition>
+
+    <condition name="last-image" value="PAUSE">
+      Мы говорим о кнопке Pause.
+    </condition>
+
+    <condition name="last-image">
+      Пока мы ни о чём конкретном не говорим.
+    </condition>
+
+  </template>
+</category>
+
+
 </aiml>

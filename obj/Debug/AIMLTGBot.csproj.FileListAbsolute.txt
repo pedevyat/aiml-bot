@@ -34,3 +34,39 @@ C:\Users\kosty\OneDrive\Рабочий стол\study\ИС\lab_aiml\AIMLTGBot\ob
 C:\Users\kosty\OneDrive\Рабочий стол\study\ИС\lab_aiml\AIMLTGBot\obj\Debug\AIMLTGBot.exe
 C:\Users\kosty\OneDrive\Рабочий стол\study\ИС\lab_aiml\AIMLTGBot\obj\Debug\AIMLTGBot.pdb
 C:\Users\kosty\OneDrive\Рабочий стол\study\ИС\lab_aiml\AIMLTGBot\obj\Debug\AIMLTGBot.exe.config
+C:\GitHub\aiml-bot\bin\Debug\config\DefaultPredicates.xml
+C:\GitHub\aiml-bot\bin\Debug\config\GenderSubstitutions.xml
+C:\GitHub\aiml-bot\bin\Debug\config\Person2Substitutions.xml
+C:\GitHub\aiml-bot\bin\Debug\config\PersonSubstitutions.xml
+C:\GitHub\aiml-bot\bin\Debug\config\Settings.xml
+C:\GitHub\aiml-bot\bin\Debug\config\Splitters.xml
+C:\GitHub\aiml-bot\bin\Debug\config\Substitutions.xml
+C:\GitHub\aiml-bot\bin\Debug\TGToken.txt
+C:\GitHub\aiml-bot\bin\Debug\aiml\russian.aiml
+C:\GitHub\aiml-bot\bin\Debug\AIMLTGBot.exe.config
+C:\GitHub\aiml-bot\bin\Debug\AIMLTGBot.exe
+C:\GitHub\aiml-bot\bin\Debug\AIMLTGBot.pdb
+C:\GitHub\aiml-bot\bin\Debug\AIMLbot.dll
+C:\GitHub\aiml-bot\bin\Debug\JetBrains.Annotations.dll
+C:\GitHub\aiml-bot\bin\Debug\Newtonsoft.Json.dll
+C:\GitHub\aiml-bot\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\GitHub\aiml-bot\bin\Debug\System.Threading.Channels.dll
+C:\GitHub\aiml-bot\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\GitHub\aiml-bot\bin\Debug\Telegram.Bot.dll
+C:\GitHub\aiml-bot\bin\Debug\Telegram.Bot.Extensions.Polling.dll
+C:\GitHub\aiml-bot\bin\Debug\AIMLbot.pdb
+C:\GitHub\aiml-bot\bin\Debug\JetBrains.Annotations.xml
+C:\GitHub\aiml-bot\bin\Debug\Newtonsoft.Json.xml
+C:\GitHub\aiml-bot\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\GitHub\aiml-bot\bin\Debug\System.Threading.Channels.xml
+C:\GitHub\aiml-bot\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\GitHub\aiml-bot\bin\Debug\Telegram.Bot.pdb
+C:\GitHub\aiml-bot\bin\Debug\Telegram.Bot.xml
+C:\GitHub\aiml-bot\bin\Debug\Telegram.Bot.Extensions.Polling.pdb
+C:\GitHub\aiml-bot\bin\Debug\Telegram.Bot.Extensions.Polling.xml
+C:\GitHub\aiml-bot\obj\Debug\AIMLTGBot.csproj.AssemblyReference.cache
+C:\GitHub\aiml-bot\obj\Debug\AIMLTGBot.exe.config
+C:\GitHub\aiml-bot\obj\Debug\AIMLTGBot.csproj.CoreCompileInputs.cache
+C:\GitHub\aiml-bot\obj\Debug\AIMLTGBot.csproj.Up2Date
+C:\GitHub\aiml-bot\obj\Debug\AIMLTGBot.exe
+C:\GitHub\aiml-bot\obj\Debug\AIMLTGBot.pdb

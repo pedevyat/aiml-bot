@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\aiml-bot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B74D3C4-6601-4B37-8275-C13DA3F50BE8}|AIMLTGBot.csproj|c:\\github\\aiml-bot\\aiml\\images.aiml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4B74D3C4-6601-4B37-8275-C13DA3F50BE8}|AIMLTGBot.csproj|solutionrelative:aiml\\images.aiml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B74D3C4-6601-4B37-8275-C13DA3F50BE8}|AIMLTGBot.csproj|c:\\github\\aiml-bot\\aimlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B74D3C4-6601-4B37-8275-C13DA3F50BE8}|AIMLTGBot.csproj|solutionrelative:aimlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B74D3C4-6601-4B37-8275-C13DA3F50BE8}|AIMLTGBot.csproj|c:\\github\\aiml-bot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B74D3C4-6601-4B37-8275-C13DA3F50BE8}|AIMLTGBot.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B74D3C4-6601-4B37-8275-C13DA3F50BE8}|AIMLTGBot.csproj|c:\\github\\aiml-bot\\telegramservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B74D3C4-6601-4B37-8275-C13DA3F50BE8}|AIMLTGBot.csproj|solutionrelative:telegramservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "images.aiml",
+              "DocumentMoniker": "C:\\GitHub\\aiml-bot\\aiml\\images.aiml",
+              "RelativeDocumentMoniker": "aiml\\images.aiml",
+              "ToolTip": "C:\\GitHub\\aiml-bot\\aiml\\images.aiml",
+              "RelativeToolTip": "aiml\\images.aiml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-29T06:22:36.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AIMLService.cs",
+              "DocumentMoniker": "C:\\GitHub\\aiml-bot\\AIMLService.cs",
+              "RelativeDocumentMoniker": "AIMLService.cs",
+              "ToolTip": "C:\\GitHub\\aiml-bot\\AIMLService.cs",
+              "RelativeToolTip": "AIMLService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T06:10:03.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TelegramService.cs",
+              "DocumentMoniker": "C:\\GitHub\\aiml-bot\\TelegramService.cs",
+              "RelativeDocumentMoniker": "TelegramService.cs",
+              "ToolTip": "C:\\GitHub\\aiml-bot\\TelegramService.cs",
+              "RelativeToolTip": "TelegramService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T06:09:54.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\aiml-bot\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\GitHub\\aiml-bot\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T06:09:51.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
